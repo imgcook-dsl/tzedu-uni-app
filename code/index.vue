@@ -45,8 +45,9 @@
   </view>
 </template>
 
-<script lang="js" src="./index.js"></script>
-
-<style lang="css" scoped>
-@import url("./index.css");
+<script lang="ts" src="./index.ts">
+</script>
+    
+<style lang="scss" scoped>
+@import url("./index.scss");
 </style>
